@@ -12,3 +12,7 @@
 h3{
     text-shadow: 5px 4px 5px;
 }
+.login{
+    float: right;
+    padding-right: 1.5rem;
+}
