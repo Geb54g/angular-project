@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding: 2rem;
+}
+.header{
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+h3{
+    text-shadow: 5px 4px 5px;
+}
