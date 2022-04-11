@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { QuoteComponent } from './quote/quote.component';
 import { LoginComponent } from './login/login.component';
+import { HighligtDirective } from './highligt.directive';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     QuoteComponent,
-    LoginComponent
+    LoginComponent,
+    HighligtDirective
   ],
   imports: [
     BrowserModule,
