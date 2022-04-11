@@ -11,6 +11,8 @@ li{
     padding-left: 1rem;
     padding-right: 2rem;
     box-shadow: 4px 4px 4px 4px ;
+    margin: 0.4rem;
+    cursor: pointer;
 }
 li:hover{
     background-color: red;
