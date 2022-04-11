@@ -1,10 +1,13 @@
-import { Directive } from '@angular/core';
+import { Directive ,ElementRef} from '@angular/core';
 
 @Directive({
   selector: '[appHighligt]'
 })
 export class HighligtDirective {
 
-  constructor() { }
+  constructor(private elem:ElementRef) { 
+    elem.nativeElement.style.backgroundColour = 'yellow'
+    
+  }
 
 }

@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { QuoteComponent } from './quote/quote.component';
 import { LoginComponent } from './login/login.component';
 import { HighligtDirective } from './highligt.directive';
+import { QuoteDetailComponent } from './quote-detail/quote-detail.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { HighligtDirective } from './highligt.directive';
     HeaderComponent,
     QuoteComponent,
     LoginComponent,
-    HighligtDirective
+    HighligtDirective,
+    QuoteDetailComponent
   ],
   imports: [
     BrowserModule,

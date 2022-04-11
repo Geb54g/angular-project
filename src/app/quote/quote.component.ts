@@ -8,11 +8,11 @@ import { Sayings } from '../sayings'
 export class QuoteComponent implements OnInit{
 
     quotes:Sayings[] =[
-      new Sayings(1, 'First Sayings;', 0,0),
-      new Sayings(2, 'Second Sayings;', 0,0),
-      new Sayings(3, 'Third Sayings;', 0,0),
-      new Sayings(4, 'Fourth Sayings;', 0,0),
-      new Sayings(5, 'Fifth Sayings;', 0,0),
+      new Sayings(1, ' Quote;', 0,0),
+      new Sayings(2, ' Quote;', 0,0),
+      new Sayings(3, 'Quote;', 0,0),
+      new Sayings(4, 'Quote;', 0,0),
+      new Sayings(5, 'Quote;', 0,0),
     ]
      
 
