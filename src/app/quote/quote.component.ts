@@ -15,7 +15,6 @@ export class QuoteComponent implements OnInit{
       new Sayings(2, 'Quote:Doubt kills more dreams than failure eve will:' ,0, 0),
     ]
      
-
   constructor() { }
 
   ngOnInit(): void {

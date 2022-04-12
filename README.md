@@ -39,7 +39,7 @@ Contribution to the project are highly welcome.Fork or clone the repo to contrib
 SSH:https://github.com/Geb54g/angular-project
 
 ## Live Site
-
+https://geb54g.github.io/angular-project/
 
 ## Licence
 
