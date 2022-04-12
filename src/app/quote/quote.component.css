@@ -5,3 +5,6 @@ li{
     text-transform: capitalize;
     
 }
+ul{
+    text-shadow: 4px 4px 4px;
+}
